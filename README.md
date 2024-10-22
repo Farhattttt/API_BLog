@@ -5,15 +5,21 @@ API Blog is a simple web application built with JavaScript, EJS (Embedded JavaSc
 
 # Features
 1)Fetches and displays blog posts from an API.
+
 2)Dynamically renders blog posts using EJS templates.
+
 3)Responsive design using CSS for an optimized user experience.
+
 4)Handles 404 (Not Found) errors for undefined routes.
 
 # Technologies Used
 
 Node.js: JavaScript runtime for building the server-side logic.
+
 Express.js: Web framework for handling routes and middleware.
+
 EJS (Embedded JavaScript): Templating engine for rendering dynamic content.
+
 CSS: Styling for responsive layouts and design.
 
 # Video Output
